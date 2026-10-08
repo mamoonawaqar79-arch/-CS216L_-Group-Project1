@@ -1,4 +1,4 @@
-Student Record System
+
 Project Title
 Student Record System
 
